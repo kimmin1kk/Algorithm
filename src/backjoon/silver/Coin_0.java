@@ -1,4 +1,4 @@
-package backjoon;
+package backjoon.silver;
 
 import java.io.*;
 import java.util.StringTokenizer;
