@@ -1,8 +1,8 @@
-import backjoon.silver.NumberCard;
+import backjoon.silver.DirectorSyom;
 import java.io.IOException;
 public class Main {
     public static void main(String[] args) throws IOException {
-        new NumberCard().run();
+        new DirectorSyom().run();
 
     }
 }
