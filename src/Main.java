@@ -1,8 +1,8 @@
-import backjoon.silver.ChessboardPainting;
+import backjoon.silver.NAndM;
 
 import java.io.IOException;
 public class Main {
     public static void main(String[] args) throws IOException {
-        new ChessboardPainting().run();
+        new NAndM().run();
     }
 }
